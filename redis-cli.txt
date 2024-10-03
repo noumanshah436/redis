@@ -1,0 +1,17 @@
+
+
+redis - open source, in-memory data structure store, used as a database, cache, and message broker
+
+
+1) Open redis cli:
+$ redis-cli
+
+
+2) practice all cli commands of `redis-cli.md` file.
+
+
+More Practice:
+
+$ set my_json_data '{"name": "nouman", "age": 23}'
+
+$ get my_json_data
